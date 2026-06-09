@@ -1,0 +1,86 @@
+📊 Analysis of Poverty Levels in West Java, 2022
+Overview:
+This project presents a descriptive statistical analysis of poverty levels across regencies and cities in West Java Province in 2022 using official data published by Statistics Indonesia (BPS). The analysis aims to identify regions with the highest and lowest poverty rates, examine regional disparities, and provide insights into socioeconomic conditions throughout the province.
+The study applies descriptive statistical techniques and data visualization to better understand poverty distribution across West Java and highlight differences among local governments.
+
+Objectives:
+Analyze poverty levels across regencies and cities in West Java.
+Identify regions with the highest and lowest poverty rates.
+Calculate the average poverty rate in West Java.
+Compare poverty conditions among regions.
+Visualize poverty data using charts and rankings.
+Interpret statistical findings for socioeconomic analysis.
+
+Dataset Information
+Source: Statistics Indonesia (BPS) – West Java Province, 2022
+
+Dataset Variables
+Regency/City Name
+Poverty Percentage (%)
+Regional Ranking
+Average Poverty Rate
+Highest Poverty Value
+Lowest Poverty Value
+
+Analysis Performed:
+Data Preparation
+Data Cleaning
+Data Validation
+Data Organization
+Statistical Analysis
+Poverty Percentage Analysis
+Regional Ranking Analysis
+Average Poverty Rate Calculation
+Comparative Regional Analysis
+Statistical Interpretation
+Data Visualization
+Bar Chart Visualization
+Top 5 Regions with Highest Poverty Rates
+Top 5 Regions with Lowest Poverty Rates
+
+Key Findings:
+The average poverty rate in West Java in 2022 was 8.65%.
+Indramayu Regency recorded the highest poverty rate at 12.77%.
+Kuningan Regency ranked second with 12.76%.
+Tasikmalaya Regency ranked third with 12.72%.
+Depok City recorded the lowest poverty rate at 2.53%.
+Bandung City and Bekasi City followed with poverty rates of 4.25% and 4.43%, respectively.
+The findings indicate noticeable socioeconomic disparities among regions in West Java.
+
+Top 5 Highest Poverty Rates:
+Rank	Region	Poverty Rate (%)
+1	Indramayu Regency	12.77
+2	Kuningan Regency	12.76
+3	Tasikmalaya Regency	12.72
+4	Cirebon Regency	12.01
+5	Majalengka Regency	11.94
+
+Top 5 Lowest Poverty Rates:
+Rank	Region	Poverty Rate (%)
+23	Cimahi City	5.11
+24	Bekasi Regency	5.01
+25	Bekasi City	4.43
+26	Bandung City	4.25
+27	Depok City	2.53
+
+Tools & Methods:
+Microsoft Excel
+Data Cleaning & Sorting
+Descriptive Statistics
+Ranking Analysis
+Bar Chart Visualization
+Statistical Interpretation
+
+Skills Demonstrated:
+Data Analysis
+Data Visualization
+Statistical Analysis
+Descriptive Statistics
+Microsoft Excel
+Statistical Interpretation
+Socioeconomic Data Analysis
+Regional Data Analysis
+Public Data Analysis
+Research and Reporting
+
+#DataAnalysis #DataAnalytics #Statistics #StatisticalAnalysis #DescriptiveStatistics #Excel #MicrosoftExcel #DataVisualization #PovertyAnalysis #WestJava #JawaBarat #BPS #OpenData #GovernmentData #SocioeconomicAnalysis #RegionalAnalysis #Research #Portfolio #DataScience #PublicData
